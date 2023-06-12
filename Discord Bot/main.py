@@ -36,4 +36,4 @@ print("| The bot is running |")
 print("----------------------")
 
 
-bot.run('MTExNzg2OTMwMTU1NTI4NjA0Nw.G1c6wj.amczxJkffesITqlbK6g83kB0gTAPHHiTd_U9bw')
+bot.run('token')
